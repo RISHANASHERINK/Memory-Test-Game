@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the MemoryTest 1.0
+---------------------------------------------------
+
+app_name - 						MemoryTest
+app_alias - 					memorytest
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Kerala
+app_author_country - 			India
+app_password - 					W0lLcRGx4DQB
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Sunday 26th of May 2024 02:57:29 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
